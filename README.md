@@ -62,6 +62,7 @@ The entry point — displays the menu and handles user interaction.
   
 📷 Sample Interaction
 
+```
 ===== Car Rental System =====
 1. Rent a Car
 2. Return a Car
